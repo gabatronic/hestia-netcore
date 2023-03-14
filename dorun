@@ -1,0 +1,5 @@
+home=$1
+user=$2
+domain=$3
+export DOTNET_PRINT_TELEMETRY_MESSAGE=false
+cd $home/$user/web/$domain/netcoreapp/ && /usr/bin/dotnet $home/$user/web/$domain/netcoreapp/app.dll --environment Production 
