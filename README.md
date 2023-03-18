@@ -4,8 +4,8 @@ The goal of this repository is to bring you a base template that allows you to h
 ## Requisites
 Before you use theses templates make sure you have installed the runtime packages or SDK on your system. Yoy can follow these links for more info.
 
-[Install .NET on Linux]: https://learn.microsoft.com/en-us/dotnet/core/install/linux
-[Host ASP.NET Core on Linux with Nginx]: https://learn.microsoft.com/en-us/aspnet/core/host-and-deploy/linux-nginx?view=aspnetcore-7.0&tabs=linux-ubuntu
+[Install .NET on Linux](https://learn.microsoft.com/en-us/dotnet/core/install/linux)
+[Host ASP.NET Core on Linux with Nginx](https://learn.microsoft.com/en-us/aspnet/core/host-and-deploy/linux-nginx?view=aspnetcore-7.0&tabs=linux-ubuntu)
 
 ## Installation
 The process is very simple. Only copy/clone the follow files:
