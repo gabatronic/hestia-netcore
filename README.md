@@ -15,7 +15,7 @@ To the the Hestia Ngnix's templates, usually `/usr/local/hestia/data/templates/w
 sudo chmod 755 /usr/local/hestia/data/templates/ngnix/netcore*.sh
 ```
 
-Once you have done the previous steps you can place your NetCore/ASPNET app on the **netcoreapp** folder, using the file manager.
+Once you have done the previous steps you can place your NetCore/ASPNET app on the **netcoreapp** folder, using the file manager. Then go to your control and select the web site. Once you selected it click on **Advanced options** and change the **Proxy template** to **netcore5000** or **netcoresock**.
 
 
 
